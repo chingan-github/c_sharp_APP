@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinganForms_1", "ChinganForms_1\ChinganForms_1.csproj", "{001C4330-EB4B-48E8-AC54-38045961B597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001C4330-EB4B-48E8-AC54-38045961B597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001C4330-EB4B-48E8-AC54-38045961B597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001C4330-EB4B-48E8-AC54-38045961B597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001C4330-EB4B-48E8-AC54-38045961B597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7CCDB58-3612-4F21-A00E-9E2898861D90}
+	EndGlobalSection
+EndGlobal
